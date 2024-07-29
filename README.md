@@ -1,4 +1,4 @@
-# Sales_Report_Dashboard
+# Sales_Report_Dashboard_Using_PowerBI_with_SQL
 
 Power BI Dashboard Using SQL
 
