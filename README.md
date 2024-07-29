@@ -2,7 +2,7 @@
 
 Power BI Dashboard Using SQL
 
-Objective: To create a Sales report for a "Awesome Chocolates" using Power BI with SQL.
+Objective: To create a Sales report for "Awesome Chocolates" using Power BI with SQL.
 
 Steps used:
 
